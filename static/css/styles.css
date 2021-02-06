@@ -1,11 +1,10 @@
 body {
-    background-image: url("images/plane.jpg");
-    background-color: #e1f4f3;
+    background-color: #87cefa;
     text-align: center;
 }
 
 .navbar {
-    background-color: #333333;
+    background-color: #e0ffff;
 }
 
 a {
