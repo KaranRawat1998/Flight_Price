@@ -3,9 +3,7 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Technologies Used](#Technologies Used)
 
 
 ## Demo
@@ -15,14 +13,6 @@ Link: [https://flight-price-1.herokuapp.com/](https://flight-price-1.herokuapp.c
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
-
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
-
 
 ## Technologies Used
 
